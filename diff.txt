@@ -1,0 +1,2 @@
+"this is to check diff command" 
+"new text added" 
